@@ -6,6 +6,7 @@
   "scripts": {
    "dev": "ts-node-dev srv/server.ts" 
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
